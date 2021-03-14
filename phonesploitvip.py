@@ -85,7 +85,7 @@ logo_design_4 = '''
       `/++MMMMh++hMMMM++/`
           MMMMo  oMMMM
           MMMMo  oMMMM
-          oNMm-  -mMNs'''
+          oNMm-  -mMNs'''-----------CMax Kausar
 
 logo_design_5 = '''
  {0}______   {1}__  __     ______     __   __     ______     {0}______     {1}______   __         ______     __     ______  
